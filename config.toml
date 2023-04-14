@@ -1,0 +1,5 @@
+baseURL = 'https://www.metabolickyridicak.cz/'
+languageCode = 'en-us'
+title = 'Metabolický řidičák'
+publishDir = 'doc'
+theme = "universal-theme"
