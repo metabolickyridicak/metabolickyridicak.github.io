@@ -17,7 +17,7 @@ mainSections = ["recepty"]
 
 disableImageOptimization = false
 
-defaultBackgroundImage = "/img/cover-image.jpg"
+defaultBackgroundImage = "/img/cover-image_scale_1200.jpg"
 
 highlightCurrentMenuArea = true
 smartTOC = true
