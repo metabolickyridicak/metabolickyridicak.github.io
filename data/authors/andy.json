@@ -1,0 +1,9 @@
+{
+    "name": "Andrea Cipovová",
+    "image" : "img/nuno_avatar.jpg",
+    "bio": "Lékař",
+    "social": [
+        { "linkedin": "https://www.linkedin.com/in/andrea-cipovov%C3%A1-a41a5115a" },
+        { "instagram": "https://instagram.com/andreacipovova" }
+    ]
+}
