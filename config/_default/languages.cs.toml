@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Metabolický řidičák"
+logo = "img/andy_logo_transparent.png"
+description = "Protože na dobrém jídle záleží!"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Metabolický řidičák"
+  image = "img/andy_square.png"
+  headline = "Protože na dobrém jídle záleží!"
+  links = [
+    { email = "mailto:metabolickyridicak@gmail.com"},
+    { youtube = "https://www.youtube.com/@metabolickyridicak" },
+    { facebook = "https://www.facebook.com/metabolickyridicak" },
+    { instagram = "https://www.instagram.com/metabolickyridicak/" }
+  ]

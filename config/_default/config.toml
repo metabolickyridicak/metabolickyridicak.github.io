@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "https://www.metabolickyridicak.cz"
-defaultContentLanguage = "en"
+defaultContentLanguage = "cs"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 

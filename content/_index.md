@@ -3,5 +3,7 @@ title: "Welcome to Metabolický řidičák! :tada:"
 description: "This is a demo of the Blowfish theme for Hugo."
 ---
 
-This is a Metabolický řidičák. It also contains a complete set of [theme documentation]({{< ref "docs" >}}). Blowfish is flexible and is great for both static page-based content (like this demo) or a traditional blog with a feed of recent posts.
+Ahoj! Jmenuju se Andy, jsem lékařka a chtěla bych vám představit svůj projekt s názvem Metabolický řidičák. Jídlo je pro mě životním tématem a proto jsem se rozhodla vytvořit tento kanál, který se mu bude věnovat. V tomto úvodním videu vám chci říct, o čem to bude a proč to dělám.
 
+
+{{< youtube "h0Vshjzb5Bg" >}}
