@@ -32,5 +32,7 @@ Všechny suché ingredience přidáme do velké mísy a pořádně promícháme.
 - karamelizovanou cibuli
 - škvarky
 
+## Tipy
+- upečené ketobulky uchovávejte v lednici, vydrží déle
 
 ![](bulky.jpg)
