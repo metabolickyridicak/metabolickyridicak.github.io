@@ -16,6 +16,11 @@
   weight = 10
 
 [[main]]
+  name = "Metabolismus"
+  pageRef = "Metabolismus"
+  weight = 10
+
+[[main]]
   identifier = "youtube"
   pre = "youtube"
   url = "https://www.youtube.com/@metabolickyridicak"

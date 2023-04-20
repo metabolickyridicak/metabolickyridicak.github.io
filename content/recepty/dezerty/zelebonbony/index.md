@@ -4,7 +4,7 @@ authors:
   - "andy"
 date: 2023-04-15
 draft: false
-tags: ["recepty", "dezerty", "healthyfood", "paleo", "autoimmunehealing"]
+tags: ["recepty", "dezerty", "ovoce", "paleo", "AIP", "pro děti"]
 ---
 
 Udělejte dětem domácí ovocné želé bonbóny jen z pár ingrediencí a bez přidaných chemických látek! Jsou paleo a AIP friendly a můžete si vybrat jakou příchuť chcete!
