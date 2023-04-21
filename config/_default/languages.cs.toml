@@ -20,5 +20,6 @@ dateFormat = "2 January 2006"
     { email = "mailto:metabolickyridicak@gmail.com"},
     { youtube = "https://www.youtube.com/@metabolickyridicak" },
     { facebook = "https://www.facebook.com/metabolickyridicak" },
-    { instagram = "https://www.instagram.com/metabolickyridicak/" }
+    { instagram = "https://www.instagram.com/metabolickyridicak/" },
+    { twitter = "https://twitter.com/MRidicak" }
   ]

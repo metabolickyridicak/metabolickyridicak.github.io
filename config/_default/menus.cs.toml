@@ -38,7 +38,11 @@
   url = "https://www.facebook.com/metabolickyridicak"
   weight = 70
 
-
+[[main]]
+  identifier = "twitter"
+  pre = "twitter"
+  url = "https://twitter.com/MRidicak"
+  weight = 70
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
