@@ -17,6 +17,10 @@ buildFuture = false
 
 googleAnalytics = "G-Z4Q1CJKV1M"
 
+
+[social]
+  twitter = 'Protože na dobrém jídle záleží!'
+
 [imaging]
   anchor = 'Center'
 
