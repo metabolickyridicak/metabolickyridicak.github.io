@@ -1,5 +1,5 @@
 ---
-title: "Vítejte na Metabolickém řidičáku! :tada:"
+title: "Vítejte na Metabolickém řidičáku!"
 description: "Protože na dobrém jídle záleží!"
 ---
 
