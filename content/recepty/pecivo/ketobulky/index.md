@@ -5,7 +5,7 @@ authors:
   - "andy"
 date: 2023-04-15
 draft: false
-tags: ["recepty", "vegan", "pečivo", "lowcarb", "lowcarb", "keto", "bez lepku"]
+tags: ["recepty", "vegan", "pečivo", "lowcarb", "keto", "bez lepku"]
 ---
 
 Upečte si doma ketobulky z mandlové mouky! Jsou vhodné při lowcarb a keto stravování, jsou vegan, bez lepku a skvěle zastoupí pečivo z bílé mouky. 
