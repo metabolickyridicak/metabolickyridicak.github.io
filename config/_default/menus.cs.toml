@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Záchvatovité přejídání"
+  pageRef = "zachvatoviteprejidani"
+  weight = 10
+
+[[main]]
   name = "Recepty"
   pageRef = "recepty"
   weight = 10

@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["recepty", "metabolismus"]
+mainSections = ["recepty", "metabolismus", "zachvatoviteprejidani"]
 # robots = ""
 
 disableImageOptimization = false
