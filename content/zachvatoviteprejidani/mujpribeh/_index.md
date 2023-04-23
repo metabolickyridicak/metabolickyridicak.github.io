@@ -11,6 +11,8 @@ tags: ["přejídání", "záchvatovité přejídání", "závislost", "stres", "
 ## Kdy a jak to začalo
 Záchvatovité přejídání u mě začalo první rok na vysoké škole, když mi bylo 19 let. Na začátku to pro mě byla euforie - velké město, noví lidé a hlavně poprvé jsem vytáhla paty z domu. Cítila jsem se nezávislá a dospělá a plně jsem si to užívala. Projevilo se to i v jídle. Mohla jsem si koupit, co jsem chtěla. S nikým jsem se nemusela dělit. Snad poprvé v životě jsem byla v mekáči. Půlnoční kebab na cestě z hospody byl samozřejmost. Brzo jsem zjistila, že mě takové jídlo uspokojuje, a že při něm zapomínám na stres a problémy. Postupně jsem se na něj začala upínat čím dál tím víc, až se u mě rozvinulo záchvatovité přejídání. 
 
+{{< youtube "ZeRVWYDRB7k" >}}
+
 ## Záchvatovité přejídání začne ovládat váš život
 Záchvatovité přejídání je v podstatě závislost. Jídlo ovládá váš život a vy nemyslíte skoro na nic jiného. Já jsem se motala v začarovaném kruhu. Od pondělí jsem držela striktní dietu, jedla jsem málo, saláty, nízkotučné výrobky. Šla jsem běhat, moc jsem neuběhla, ale totálně jsem se zničila. V úterý už jsem ztrácela motivaci a ve středu jsem snědla první čokoládu. Zbytek týdne jsem v podstatě projedla s vrcholem v pátek nebo o víkendu, kdy jsem byla na kolejích sama a naplánovala jsem si přejezení. Moje přejídací jídlo byl hrnec plný špaget s rozpuštěným sýrem a majonézou. S tím jsem si zalezla do postele, pustila k tomu seriál a byl to pro mě úplný výmaz hlavy. Myšlenky na jídlo byly nutkavé a nemohla jsem myslet téměř na nic jiného. Někdy jsem dokonce odmítla jít na akci s přáteli, protože jsem si naplánovala přejezení a už jsem si domů nesla nakoupenou tašku s jídlem. Vymluvila jsem se, že se musím učit a duchem už jsem byla u špaget. 
 
