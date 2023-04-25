@@ -10,6 +10,7 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
+
 [[main]]
   name = "Záchvatovité přejídání"
   pageRef = "zachvatoviteprejidani"
@@ -21,9 +22,15 @@
   weight = 10
 
 [[main]]
+  name = "O nás"
+  pageRef = "onas"
+  weight = 1
+
+[[main]]
   name = "Metabolismus"
   pageRef = "Metabolismus"
   weight = 10
+
 
 [[main]]
   identifier = "youtube"

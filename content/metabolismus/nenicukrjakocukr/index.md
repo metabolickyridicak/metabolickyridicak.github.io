@@ -1,5 +1,5 @@
 ---
-title: "Není cukr jako cukr"
+title: "Není cukr jako cukr! Po kterém se tloustne víc?"
 description: "Glukóza a fruktóza jsou jednoduché cukry, které běžně jíme. Přestože vypadají podobně, každá z nich má v těle jiný osud. "
 authors:
   - "andy"
