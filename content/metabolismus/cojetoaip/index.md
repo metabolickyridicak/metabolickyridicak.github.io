@@ -3,8 +3,8 @@ title: "Co je Autoimunitní protokol"
 description: "Autoimunitní protokol je souhrn opatření, která mají za úkol zahojit propustné střevo, snížit aktivitu imunitního systému a zlepšit projevy autoimunitního onemocnění. "
 authors:
   - "andy"
-date: 2023-04-25
-draft: true
+date: 2023-04-26
+draft: false
 tags: ["metabolismus", "AIP", "autoimunitní onemocnění", "ekzém", "syndrom propustného střeva", "střevní mikrobiom", "wellbeing", "stres"]
 ---
 
