@@ -1,16 +1,16 @@
 ---
-title: "Chléb z balkánského sýru"
+title: "Ketochléb z balkánského sýru"
 description: "Lowcarb alternativa bílého pečiva"
 authors:
   - "andy"
-date: 2023-05-04
-draft: true
-tags: ["recepty", "pečivo", "lowcarb", "keto", "bez lepku"]
+date: 2023-05-14
+draft: false
+tags: ["recepty", "pečivo", "lowcarb", "keto", "bez lepku", "chleba"]
 ---
 
-Vyzkoušejte tento lowcarb chlebík z balkánského sýru! Nejlepší je hned z trouby jenom s máslem. Je lowcarb, bez lepku a plný vlákniny.
+Vyzkoušejte tento keto chlebík z balkánského sýru! Nejlepší je hned z trouby jenom s máslem. Je lowcarb, bez lepku a plný vlákniny.
 
-{{< youtube "" >}}
+{{< youtube "TZ8ZD1SZVvw" >}}
 
 ## Ingredience
 - 4 PL mandlové mouky
