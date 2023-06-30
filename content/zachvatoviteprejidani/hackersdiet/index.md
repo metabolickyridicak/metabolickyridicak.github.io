@@ -1,5 +1,5 @@
 ---
-title: "Hacker's diet"
+title: "Hacker's Diet"
 description: ""
 authors:
   - "peter"
@@ -85,7 +85,7 @@ S mojí ženou jsme si uvědomili, že odpovědi na to, jak efektivně řídit v
 
 Príkladem múže být moje maminka s prediabetesem. Už zhubla 14 kg. Dokázala změnit jídelníček, i když je k jídlu konzervativní. Dělala to postupně a zjistila, jaka dieta ji funguje nejlíp. A ne naopak - pracovat pro dietu. Nyní si najde čas i na pravidelné cvičení!
 
-Moje cesta mě přesvědčila, že i naši největší slabinu lze proměnit ve výhodu. Jo, může to nějakou dobu trvat. Může to trvat. Múžeme smyčkování v kruzích, ale to je normální. Jsme jen lidé. Neexistuje žádná dieta a všechny „dobré rady“ je třeba upravit podle konkrétního kontextu. Podle preferencí, životního stylu a limitů každého. Jedině tak to bude účinné. Když se krátkodobá dieta změní na dlouhodobý návyk.
+Moje cesta mě přesvědčila, že i naši slabinu lze proměnit ve výhodu. Jo, může to nějakou dobu trvat. Může to trvat. Múžeme smyčkování v kruzích, ale to je normální. Jsme jen lidé. Neexistuje žádná dieta a všechny „dobré rady“ je třeba upravit podle konkrétního kontextu. Podle preferencí, životního stylu a limitů každého. Jedině tak to bude účinné. Když se krátkodobá dieta změní na dlouhodobý návyk.
 
 Hodne sil všem, kdo někdy začne s hubnutím....
 
