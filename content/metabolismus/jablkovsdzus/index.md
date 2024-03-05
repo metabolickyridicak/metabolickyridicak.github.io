@@ -1,6 +1,6 @@
 ---
 title: "Jablko vs. jablečný džus"
-description: "Je vašemu tělu jedno,jestli si vyberete jablko nebo jablečný džus? "
+description: "Je vašemu tělu jedno, jestli si vyberete jablko nebo jablečný džus? "
 authors:
   - "andy"
 date: 2023-10-22

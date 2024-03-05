@@ -51,6 +51,12 @@
   url = "https://twitter.com/MRidicak"
   weight = 70
 
+[[main]]
+  identifier = "tiktok"
+  pre = "tiktok"
+  url = "https://www.tiktok.com/@metabolickyridicak"
+  weight = 70
+
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
